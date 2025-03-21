@@ -2,9 +2,9 @@
 ## Due: 9am on March 26, 2025
 
 ## Objectives
-- Understand the basics of word embeddings and how they capture semantic meaning.
-- Compare unigram, bigram, and trigram models to see how context length affects prediction.
-- Practice modifying existing Python scripts to deepen understanding of NLP workflows.
+- Apply character-level RNNs to classification and text generation by completing PyTorch tutorials, analyzing how sequential data is processed and learned.
+- Compare the impact of different modeling approaches by summarizing key findings on how embeddings differ from simple n-gram techniques.
+- Evaluate the role of hidden states, temperature in sampling, and the vanishing gradient problem by connecting theoretical insights from D2L to practical observations in the tutorials.
 
 ## Tasks
 
