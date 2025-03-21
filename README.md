@@ -10,7 +10,7 @@
 
 1. Complete [NLP From Scratch: Classifying Names with a Character-Level RNN](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) tutorial.
 2. Complete [https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html) tutorial.
-3. Summarize your key findings in the "Observations" section below, focusing on how embeddings differ from simple n-gram approaches.
+3. Answer discussion questions on conceptual and practical connections.
 
 ## Discussion
 
